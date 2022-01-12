@@ -4,5 +4,24 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mssqlOptions": {
+					"appName": "SQLTools",
+					"useUTC": true,
+					"encrypt": true
+				},
+				"previewLimit": 50,
+				"server": "acu-demos.us",
+				"port": 1433,
+				"askForPassword": true,
+				"driver": "MSSQL",
+				"name": "LocalDB",
+				"group": "Projects",
+				"database": "acumaticadb",
+				"username": "sa"
+			}
+		]
+	}
 }

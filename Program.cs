@@ -1,18 +1,16 @@
 ﻿#nullable enable
-using System;
-using System.Net.Http;
+// using System;
+// using System.Net.Http;
+// using System.Threading.Tasks;
+// using System.Collections.Generic;
 using System.Net.Http.Headers;
-using System.Threading.Tasks;
-using System.Collections.Generic;
 using System.Text.Json;
 
 namespace WebAPIClient
 {
     public static class Program
     {
-
         private static readonly HttpClient client = new HttpClient();
-
         static async Task Main(string[] args)
         {
             var repositories = await ProcessRepositories();
@@ -27,7 +25,6 @@ namespace WebAPIClient
                 Console.WriteLine();
             }
         }
-
         private static async Task<List<Repository>> ProcessRepositories()
         {
             client.DefaultRequestHeaders.Accept.Clear();

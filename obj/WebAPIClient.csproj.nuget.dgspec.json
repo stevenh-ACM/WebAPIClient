@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj": {}
+    "C:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj": {
+    "C:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj",
+        "projectUniqueName": "C:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj",
         "projectName": "WebAPIClient",
-        "projectPath": "c:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj",
+        "projectPath": "C:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj",
         "packagesPath": "C:\\Users\\sjhou\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sjhou\\source\\repos\\WebAPIClient\\obj\\",
+        "outputPath": "C:\\Users\\sjhou\\source\\repos\\WebAPIClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sjhou\\AppData\\Roaming\\NuGet\\NuGet.Config",

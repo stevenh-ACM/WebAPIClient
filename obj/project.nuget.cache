@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIfjW8q2KLirFWHjVRUGV2BB8pgUKfnhnvAqvyYvSFkTOlgdbj9hr/wYixI39XHzAmfKIU7oGhGgWg8jqHLCbA==",
+  "dgSpecHash": "7qhMa8CghYeZb+zRM9QfJgRQ4y6Drg/+19BNRlEViOpUa3CKruvX6qEGoH1MENCNkaBK+dz1Qrafq7eKjDaZlQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj",
+  "projectFilePath": "C:\\Users\\sjhou\\source\\repos\\WebAPIClient\\WebAPIClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
